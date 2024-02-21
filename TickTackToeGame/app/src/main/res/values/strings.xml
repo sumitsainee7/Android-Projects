@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tick Tack Toe</string>
+    <string name="cross">*</string>
+    <string name="zero">O</string>
+</resources>
