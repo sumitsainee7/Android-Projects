@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338455280109",
+    "project_id": "broadcastreceiver-5ad59",
+    "storage_bucket": "broadcastreceiver-5ad59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338455280109:android:7d260652d7896a42478fe4",
+        "android_client_info": {
+          "package_name": "com.sumitsainee.broadcastreceiver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE9KdNtoC9PKlk7gOoPhfdol05sxritcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
